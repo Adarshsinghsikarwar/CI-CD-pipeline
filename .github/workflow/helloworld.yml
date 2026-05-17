@@ -1,3 +1,4 @@
+# name of the workflow/pipeline
 name : "hello world workflow"
 
 # this is a event that will trigger the workflow when there is a push to the main or production branch  
